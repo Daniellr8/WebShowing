@@ -3,7 +3,9 @@ import './navbar.css';
 import {RiMenu3Line, RiCloseLine} from 'react-icons/ri';
 import logo from '../../assets/logo.svg';
 
+
 const Menu = ()=>(
+  
   <>
   <p><a href='#home'>Home</a></p>
   <p><a href='#wshowing'>Quienes Somos</a></p>
@@ -23,6 +25,7 @@ const Navbar = () => {
         </div>
         <div className='gpt3__navbar-links_container'>
          <Menu/>
+         
          </div>
       </div>
       <div className='gpt3__navbar-sign'>
