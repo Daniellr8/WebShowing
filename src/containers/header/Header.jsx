@@ -7,15 +7,15 @@ const Header = () => {
   return (
     <div className='gpt3__header section__padding' id='home'>
       <div className='gpt3__header-content'>
-        <h1 className='gradient__text'> Lets Build Something amazing with GPT3 OpenAI</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates necessitatibus doloribus distinctio dignissimos ab neque assumenda et nemo? Cupiditate eaqu</p>
+        <h1 className='gradient__text'>Tu Aliado En Servicio Técnico Especializado </h1>
+        <p>En Showing Computo te brindamos asesoría y solución a tus problemas relacionados con Computadores portátiles o de mesa y otros equipos de cómputo, ofrecemos servicio de reparacion, instalación de software, mantenimiento preventivo y correctivo.</p>
         <div className='gpt3__header-content__input'>
-          <input type="email" placeholder="Enter Your Email"></input>
-          <button type='button'>Get Started</button>
+          <input type="email" placeholder="Dejanos tu correo"></input>
+          <button type='button'>Asesoria</button>
         </div>
         <div className='gpt3__header-content__people'>
           <img src={people} alt="people"/>
-          <p>Lorem ipsum dolor sit amet Cum quis, omnis eaque totam praesentium voluptas</p>
+          <p>Contamos con una gran cantidad de clientes que nos han elegido</p>
         </div>        
       </div>
       <div className='gpt3__header-image'>

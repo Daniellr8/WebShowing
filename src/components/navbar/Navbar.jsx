@@ -7,10 +7,10 @@ import logo from '../../assets/logo.svg';
 const Menu = ()=>(
   
   <>
-  <p><a href='#home'>Home</a></p>
-  <p><a href='#wshowing'>Quienes Somos</a></p>
+  <p><a href='#home'>Inicio</a></p>
+  <p><a href='#wshowing'>¿Quienes Somos?</a></p>
   <p><a href='#possibility'>Servicios</a></p>
-  <p><a href='#features'>Casos</a></p>
+  <p><a href='#features'>Ventas</a></p>
   <p><a href='#blog'>Contacto</a></p>
   </>
 )
