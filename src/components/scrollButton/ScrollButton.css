@@ -1,0 +1,11 @@
+.buttonScroll{
+    position: fixed; 
+    width:2%;
+    left: 96%;
+    bottom: 40px;
+    height: 20px;
+    font-size: 1rem;
+    z-index: 1;
+    cursor: pointer;
+    color: var(--color-footer); 
+}
